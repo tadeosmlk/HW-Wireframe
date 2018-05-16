@@ -1,0 +1,141 @@
+body{
+	font-family: 'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
+	color: #777;
+	background: #777;
+    width: 990px;
+    font-size: 18px;
+
+}
+div{
+	align-content: center;
+}
+header, nav, footer{
+	background: #ebebeb;
+	height: 50px;
+	margin-bottom: 10px;
+	/*padding-left: 45%;*/
+	text-align: center;
+	padding-top: 25px;
+}
+/*nav{
+	background: #ebebeb;
+	height: 60px;
+	margin-bottom:  10px;
+	padding-left: 46%;
+	padding-top: 40px;
+}*/
+.centered {
+  margin-left: 100px;
+}
+#asideBoxHight
+{ 
+height: 196px; }
+.inSection{
+	width: 200px;
+	background: green;
+}
+.outerBox
+{
+	background-color: #777;
+	margin-bottom: 10px;
+}
+.boxmiddleTop
+{
+	margin: 10px;
+	padding-top: 10px;
+	height: 40px;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ebebeb;
+}
+.sectionHbox{
+margin-left: 20px;
+margin-right: 20px;
+margin-bottom: 5px;
+padding: 10px;
+background-color: #ebebeb;
+color: #777;
+}
+#sectionPbox{
+	margin-bottom: 10px;
+}
+.sectionBox
+{
+	width: 442px;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ebebeb;
+	float: left;
+	height: auto;
+    margin-right: 2.5px;
+}
+.articleBox
+{   
+	margin: 5px;
+	padding-bottom: 2.5px;
+	background-color: #777;
+	color: #ebebeb;
+}
+#articlehead
+{
+	background-color: #777;
+	height: 30px;
+	text-align: center;
+	vertical-align: middle;
+	padding-top: 15px;
+}
+.asideBox
+{
+	height: 100%;
+	width: 442px;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ebebeb;
+	height: auto;
+	float: left;
+	margin-left: 2.5px;
+}
+article{
+	color: #ebebeb;
+	background: #777;
+	width: 495px;
+	padding-top: 100px;
+}
+
+hx{
+	color: #777;
+	margin: 10px;
+	background: #ebebeb;
+	height: 100px;
+	float: left;
+	width: 475px;
+}
+p{
+	color: #777;
+	margin: 10px;
+	background: #ebebeb;
+	height: 100px;
+	clear: left;
+	width: 475px;
+}
+aside{
+	background: #ebebeb;
+	width: 495px;
+}
+/*footer{
+	background: #ebebeb;
+	height: 60px;
+	margin-bottom: 10px;
+	padding-left: 45%;
+	padding-top: 40px;
+	margin-top: 10px;
+}*/
+.floatleft{
+	float: left;
+}
+.clear
+{
+    content: "";
+	clear: both;
+	display: table;
+}
